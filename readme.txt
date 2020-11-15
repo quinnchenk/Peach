@@ -1,4 +1,4 @@
-﻿
+﻿# update in 20201115
 # 1.创建虚拟环境
 
   mkvirtualenv -p python3 HMHome
